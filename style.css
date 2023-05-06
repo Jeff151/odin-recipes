@@ -1,0 +1,18 @@
+.food-pics{
+margin: 75px 75px;
+}
+body{
+    background-color: #000000;
+    color: #ffffff
+}
+header{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+img{
+    border-image-width: auto;
+    padding: 0%;
+}
