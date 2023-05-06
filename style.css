@@ -1,18 +1,32 @@
 .food-pics{
-margin: 75px 75px;
+
+    display: flex;
+    flex-direction: column-reverse;
+    max-width: 50%;
+    height: auto;
+    margin: auto
+
+ 
 }
 body{
     background-color: #000000;
     color: #ffffff
 }
 header{
-    text-align: center;
-    
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    max-width: 20%;
+    height: auto;
+ 
 }
 h1{
     text-align: center;
 }
 img{
-    border-image-width: auto;
-    padding: 0%;
-}
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    max-width: 20%;
+    height: auto;
+ }
